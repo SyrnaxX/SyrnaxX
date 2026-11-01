@@ -1,4 +1,4 @@
-# 👋 Hey, I'm SyrnaxX!
+# 👋 Hey, I'm Dheeraj Singh!
 
 <div align="center">
 
