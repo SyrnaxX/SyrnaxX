@@ -24,24 +24,35 @@ I'm a Computer Science undergraduate at the **University of Delhi**, passionate 
 
 ## 💻 Tech Stack
 
-### Programming \& Data Science
+### Programming & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas,sklearn" />
 </p>
 
-### Machine Learning \& Development
+### Machine Learning & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,vscode" />
 </p>
 
-### Data Visualization
+### Data Visualization & Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge" />
+</p>
+
+### 🌐 Platforms & Tools
+
+<p align="left">
+  <a href="https://www.kaggle.com/dheerajsingh28b">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
+  </a>
+  <a href="https://github.com/SyrnaxX">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
 </p>
 
 ## 📂 Featured Projects
