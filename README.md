@@ -42,7 +42,6 @@ I'm a Computer Science undergraduate at the **University of Delhi**, passionate 
 <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ## 📂 Featured Projects
