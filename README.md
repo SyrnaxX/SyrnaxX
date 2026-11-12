@@ -1,21 +1,18 @@
 <div align="center">
 
-<img src="assets/d-banner.svg" width="100%" alt="SyrnaxX - CS (Hons.) student at University of Delhi, AI and ML builder"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&italic=true&size=22&duration=3200&pause=900&color=F0B45A&center=true&vCenter=true&width=760&height=44&lines=Learning+ML+%C2%B7+FastAPI+%C2%B7+NLP;Building+real-world+AI+projects;Next%3A+Deep+Learning+%E2%86%92+Gen+AI+%E2%86%92+Agentic+AI;Dream+Big.+Learn+Deep.+Stay+Devoted." alt="Typing animation"/>
+<img src="assets/n-banner.svg" width="100%" alt="SyrnaxX - CS (Hons.) student at University of Delhi, AI and ML builder"/>
 
 <a href="https://github.com/SyrnaxX"><img src="https://img.shields.io/badge/GitHub-SyrnaxX-14121a?style=for-the-badge&logo=github&logoColor=white&labelColor=1d1a24"/></a>
 <a href="https://www.kaggle.com/dheerajsingh28b"><img src="https://img.shields.io/badge/Kaggle-dheerajsingh28b-14121a?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=1d1a24"/></a>
 <a href="https://www.linkedin.com/in/SyrnaxX"><img src="https://img.shields.io/badge/LinkedIn-SyrnaxX-14121a?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1d1a24"/></a>
-<img src="https://komarev.com/ghpvc/?username=SyrnaxX&label=Profile+views&color=c9792e&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-<img src="assets/d-about.svg" width="100%" alt="About me and what I am learning right now"/>
+<img src="assets/n-about.svg" width="100%" alt="About me and what I am learning right now"/>
 
-<img src="assets/d-t-path.svg" width="100%" alt="Learning Path"/>
+<img src="assets/n-t-path.svg" width="100%" alt="Learning Path"/>
 
-<img src="assets/d-roadmap.svg" width="100%" alt="Roadmap: ML, FastAPI, NLP, then Deep Learning, Gen AI, Agentic AI, Claude Code"/>
+<img src="assets/n-roadmap.svg" width="100%" alt="Roadmap: ML, FastAPI, NLP, then Deep Learning, Gen AI, Agentic AI"/>
 
 <details>
 <summary><b>🧭 Open the roadmap in detail</b></summary>
@@ -24,19 +21,18 @@
 - **Next:** Deep Learning.
 - **Then:** Generative AI (LLMs, RAG, prompt engineering).
 - **After that:** Agentic AI (AI agents, LangGraph, multi-agent systems).
-- **Also:** learning Claude Code to speed up my workflow.
 
 </details>
 
-<img src="assets/d-t-projects.svg" width="100%" alt="Featured Projects"/>
+<img src="assets/n-t-projects.svg" width="100%" alt="Featured Projects"/>
 
 <div align="center">
 
-<a href="https://github.com/SyrnaxX/credit-risk-analyzer"><img src="assets/d-card-credit.svg" width="100%" alt="Credit Risk Analyzer"/></a>
-<a href="https://github.com/SyrnaxX/food-delivery-time-prediction"><img src="assets/d-card-food.svg" width="49%" alt="Food Delivery Time Prediction"/></a>
-<a href="https://github.com/SyrnaxX/spam-detection"><img src="assets/d-card-spam.svg" width="49%" alt="Spam Detection"/></a>
-<a href="https://github.com/SyrnaxX/insurance-premium-prediction-model"><img src="assets/d-card-insurance.svg" width="49%" alt="Insurance Premium Prediction"/></a>
-<a href="https://github.com/SyrnaxX/car-price-prediction"><img src="assets/d-card-car.svg" width="49%" alt="Car Price Prediction"/></a>
+<a href="https://github.com/SyrnaxX/credit-risk-analyzer"><img src="assets/n-card-credit.svg" width="100%" alt="Credit Risk Analyzer"/></a>
+<a href="https://github.com/SyrnaxX/food-delivery-time-prediction"><img src="assets/n-card-food.svg" width="49%" alt="Food Delivery Time Prediction"/></a>
+<a href="https://github.com/SyrnaxX/spam-detection"><img src="assets/n-card-spam.svg" width="49%" alt="Spam Detection"/></a>
+<a href="https://github.com/SyrnaxX/insurance-premium-prediction-model"><img src="assets/n-card-insurance.svg" width="49%" alt="Insurance Premium Prediction"/></a>
+<a href="https://github.com/SyrnaxX/car-price-prediction"><img src="assets/n-card-car.svg" width="49%" alt="Car Price Prediction"/></a>
 
 <sub>Click any card to open its repository.</sub>
 
@@ -55,9 +51,9 @@
 
 </details>
 
-<img src="assets/d-t-stack.svg" width="100%" alt="Tech Stack"/>
+<img src="assets/n-t-stack.svg" width="100%" alt="Tech Stack"/>
 
-<img src="assets/d-skills.svg" width="100%" alt="Skills ticker"/>
+<img src="assets/n-skills.svg" width="100%" alt="Skills ticker"/>
 
 <details>
 <summary><b>🧰 Open the full tech stack</b></summary>
@@ -85,26 +81,13 @@
 <img src="https://img.shields.io/badge/GitHub-14121a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1d1a24" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Kaggle-14121a?style=for-the-badge&logo=kaggle&logoColor=ffffff&labelColor=1d1a24" alt="Kaggle"/>
 <img src="https://img.shields.io/badge/Jupyter-14121a?style=for-the-badge&logo=jupyter&logoColor=ffffff&labelColor=1d1a24" alt="Jupyter"/></p>
-<p><b>Coming next</b><br/>
-<img src="https://img.shields.io/badge/Claude%20Code-14121a?style=for-the-badge&logo=anthropic&logoColor=ffffff&labelColor=1d1a24" alt="Claude Code"/></p>
 
 </div>
 
 </details>
 
-<img src="assets/d-t-beyond.svg" width="100%" alt="Beyond Code"/>
+<img src="assets/n-t-beyond.svg" width="100%" alt="Beyond Code"/>
 
-<img src="assets/d-interests.svg" width="100%" alt="Interests: volleyball, sketching and craft, discipline, continuous learning"/>
+<img src="assets/n-interests.svg" width="100%" alt="Interests: volleyball, sketching and craft, discipline, continuous learning"/>
 
-<img src="assets/d-t-live.svg" width="100%" alt="GitHub Activity"/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=SyrnaxX&theme=dark&background=0D0C12&ring=F0B45A&fire=FF9A3C&currStreakLabel=F0B45A&sideLabels=C9B79B&currStreakNum=F1E6D6&sideNums=F1E6D6&dates=8E8068&border=3A2E22" width="49%" alt="GitHub streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyrnaxX&layout=compact&langs_count=6&title_color=F0B45A&text_color=E8DCC8&bg_color=0D0C12&border_color=3A2E22" width="49%" alt="Top languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyrnaxX&bg_color=0D0C12&color=E8DCC8&line=F0B45A&point=FFFFFF&area=true&area_color=C9792E&hide_border=true" width="100%" alt="Contribution activity graph"/>
-
-</div>
-
-<img src="assets/d-footer.svg" width="100%" alt="Let's build meaningful projects, learn new skills and grow together."/>
+<img src="assets/n-footer.svg" width="100%" alt="Let's build meaningful projects, learn new skills and grow together."/>
