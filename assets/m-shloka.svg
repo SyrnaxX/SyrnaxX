@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="Bhagavad Gita 2.47: focus on the work, not on the result, shown with a small code snippet"><defs><linearGradient id="cd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17130f"/><stop offset="1" stop-color="#0e0c0a"/></linearGradient>
+<linearGradient id="bgp" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a0908"/><stop offset="1" stop-color="#120f0c"/></linearGradient>
+<linearGradient id="sheen" x1="0" x2="1"><stop offset="0" stop-color="#ffc66d" stop-opacity="0"/><stop offset=".5" stop-color="#ffc66d" stop-opacity=".14"/><stop offset="1" stop-color="#ffc66d" stop-opacity="0"/></linearGradient>
+<filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+<filter id="bl2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter><clipPath id="cl"><rect width="1200" height="210" rx="26"/></clipPath></defs><g clip-path="url(#cl)"><defs><linearGradient id="m" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff3d6"/><stop offset=".55" stop-color="#f3d9a0"/><stop offset="1" stop-color="#d9a441"/></linearGradient></defs><rect width="1200" height="210" fill="url(#bgp)"/><rect x="16" y="16" width="600" height="178" rx="22" fill="url(#cd)" stroke="#33291d"/><rect x="632" y="16" width="552" height="178" rx="22" fill="url(#cd)" stroke="#33291d"/>
+<text x="316" y="62" text-anchor="middle" font-family="'Nirmala UI','Noto Sans Devanagari','Mangal',serif" font-size="30" font-weight="700" fill="url(#m)">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन</text>
+<text x="316" y="96" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="14" font-style="italic" fill="#a8998a">Karmaṇy-evādhikāras te mā phaleṣu kadācana</text>
+<line x1="216" y1="116" x2="416" y2="116" stroke="#d9a441" stroke-opacity=".4"/>
+<text x="316" y="146" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="19" fill="#f3ead9">Focus on the work, not on the result.</text>
+<text x="316" y="176" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#d9a441">BHAGAVAD GITA · 2.47</text>
+<g font-family="'JetBrains Mono',Consolas,monospace" font-size="15">
+<circle cx="660" cy="42" r="5" fill="#ef6a5e"/><circle cx="678" cy="42" r="5" fill="#e8b04a"/><circle cx="696" cy="42" r="5" fill="#5ec26a"/><text x="720" y="47" font-size="12" fill="#a8998a">karma_yoga.py</text>
+<text x="662" y="86"><tspan fill="#e0803f">def</tspan><tspan fill="#f3d9a0"> karma</tspan><tspan fill="#a8998a">(work):</tspan></text>
+<text x="690" y="114"><tspan fill="#a8998a">do(work)</tspan><tspan fill="#6f6254">   # my right is the action</tspan></text>
+<text x="690" y="142"><tspan fill="#e0803f">return</tspan><tspan fill="#a8998a"> None</tspan><tspan fill="#6f6254">   # never the fruit</tspan></text>
+<text x="662" y="176"><tspan fill="#a8998a">karma</tspan><tspan fill="#a8998a">(</tspan><tspan fill="#d9a441">"learn · build · ship"</tspan><tspan fill="#a8998a">)</tspan></text></g>
+<rect x="662" y="180" width="9" height="2" fill="#d9a441"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect></g><rect x=".5" y=".5" width="1199" height="209" rx="26" fill="none" stroke="#33291d"/></svg>
