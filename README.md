@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/n-banner.svg" width="100%" alt="SyrnaxX - CS (Hons.) student at University of Delhi, AI and ML builder"/>
+<img src="assets/m-banner.svg" width="100%" alt="SyrnaxX - CS (Hons.) student at University of Delhi, AI and ML builder"/>
 
 <a href="https://github.com/SyrnaxX"><img src="https://img.shields.io/badge/GitHub-SyrnaxX-14121a?style=for-the-badge&logo=github&logoColor=white&labelColor=1d1a24"/></a>
 <a href="https://www.kaggle.com/dheerajsingh28b"><img src="https://img.shields.io/badge/Kaggle-dheerajsingh28b-14121a?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=1d1a24"/></a>
@@ -8,11 +8,13 @@
 
 </div>
 
-<img src="assets/n-about.svg" width="100%" alt="About me and what I am learning right now"/>
+<img src="assets/m-shloka.svg" width="100%" alt="Bhagavad Gita 2.47: focus on the work, not on the result"/>
 
-<img src="assets/n-t-path.svg" width="100%" alt="Learning Path"/>
+<img src="assets/m-about.svg" width="100%" alt="About me and what I am learning right now"/>
 
-<img src="assets/n-roadmap.svg" width="100%" alt="Roadmap: ML, FastAPI, NLP, then Deep Learning, Gen AI, Agentic AI"/>
+<img src="assets/m-t-path.svg" width="100%" alt="Learning Path"/>
+
+<img src="assets/m-roadmap.svg" width="100%" alt="Roadmap: ML, FastAPI, NLP, then Deep Learning, Gen AI, Agentic AI"/>
 
 <details>
 <summary><b>🧭 Open the roadmap in detail</b></summary>
@@ -24,15 +26,15 @@
 
 </details>
 
-<img src="assets/n-t-projects.svg" width="100%" alt="Featured Projects"/>
+<img src="assets/m-t-projects.svg" width="100%" alt="Featured Projects"/>
 
 <div align="center">
 
-<a href="https://github.com/SyrnaxX/credit-risk-analyzer"><img src="assets/n-card-credit.svg" width="100%" alt="Credit Risk Analyzer"/></a>
-<a href="https://github.com/SyrnaxX/food-delivery-time-prediction"><img src="assets/n-card-food.svg" width="49%" alt="Food Delivery Time Prediction"/></a>
-<a href="https://github.com/SyrnaxX/movie-recommender-system"><img src="assets/n-card-movie.svg" width="49%" alt="Movie Recommendation System"/></a>
-<a href="https://github.com/SyrnaxX/insurance-premium-prediction-model"><img src="assets/n-card-insurance.svg" width="49%" alt="Insurance Premium Prediction"/></a>
-<a href="https://github.com/SyrnaxX/car-price-prediction"><img src="assets/n-card-car.svg" width="49%" alt="Car Price Prediction"/></a>
+<a href="https://github.com/SyrnaxX/credit-risk-analyzer"><img src="assets/m-card-credit.svg" width="100%" alt="Credit Risk Analyzer"/></a>
+<a href="https://github.com/SyrnaxX/food-delivery-time-prediction"><img src="assets/m-card-food.svg" width="49%" alt="Food Delivery Time Prediction"/></a>
+<a href="https://github.com/SyrnaxX/movie-recommender-system"><img src="assets/m-card-movie.svg" width="49%" alt="Movie Recommendation System"/></a>
+<a href="https://github.com/SyrnaxX/insurance-premium-prediction-model"><img src="assets/m-card-insurance.svg" width="49%" alt="Insurance Premium Prediction"/></a>
+<a href="https://github.com/SyrnaxX/car-price-prediction"><img src="assets/m-card-car.svg" width="49%" alt="Car Price Prediction"/></a>
 
 <sub>Click any card to open its repository.</sub>
 
@@ -51,9 +53,9 @@
 
 </details>
 
-<img src="assets/n-t-stack.svg" width="100%" alt="Tech Stack"/>
+<img src="assets/m-t-stack.svg" width="100%" alt="Tech Stack"/>
 
-<img src="assets/n-skills.svg" width="100%" alt="Skills ticker"/>
+<img src="assets/m-skills.svg" width="100%" alt="Skills ticker"/>
 
 <details>
 <summary><b>🧰 Open the full tech stack</b></summary>
@@ -86,8 +88,8 @@
 
 </details>
 
-<img src="assets/n-t-beyond.svg" width="100%" alt="Beyond Code"/>
+<img src="assets/m-t-beyond.svg" width="100%" alt="Beyond Code"/>
 
-<img src="assets/n-interests.svg" width="100%" alt="Interests: volleyball, sketching and craft, discipline, continuous learning"/>
+<img src="assets/m-interests.svg" width="100%" alt="Interests: volleyball, sketching and craft, discipline, continuous learning"/>
 
-<img src="assets/n-footer.svg" width="100%" alt="Let's build meaningful projects, learn new skills and grow together."/>
+<img src="assets/m-footer.svg" width="100%" alt="Let's build meaningful projects, learn new skills and grow together."/>
