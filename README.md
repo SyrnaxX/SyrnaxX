@@ -30,7 +30,7 @@
 
 <a href="https://github.com/SyrnaxX/credit-risk-analyzer"><img src="assets/n-card-credit.svg" width="100%" alt="Credit Risk Analyzer"/></a>
 <a href="https://github.com/SyrnaxX/food-delivery-time-prediction"><img src="assets/n-card-food.svg" width="49%" alt="Food Delivery Time Prediction"/></a>
-<a href="https://github.com/SyrnaxX/spam-detection"><img src="assets/n-card-spam.svg" width="49%" alt="Spam Detection"/></a>
+<a href="https://github.com/SyrnaxX/movie-recommender-system"><img src="assets/n-card-movie.svg" width="49%" alt="Movie Recommendation System"/></a>
 <a href="https://github.com/SyrnaxX/insurance-premium-prediction-model"><img src="assets/n-card-insurance.svg" width="49%" alt="Insurance Premium Prediction"/></a>
 <a href="https://github.com/SyrnaxX/car-price-prediction"><img src="assets/n-card-car.svg" width="49%" alt="Car Price Prediction"/></a>
 
@@ -45,7 +45,7 @@
 |---|---|---|
 | [Credit Risk Analyzer](https://github.com/SyrnaxX/credit-risk-analyzer) | Predicts loan defaults with calibrated XGBoost and explains decisions with SHAP | Python, XGBoost, SHAP, FastAPI |
 | [Food Delivery Time Prediction](https://github.com/SyrnaxX/food-delivery-time-prediction) | Predicts delivery times, with strict data-leakage prevention | XGBoost, FastAPI, Docker, Streamlit |
-| [Spam Detection](https://github.com/SyrnaxX/spam-detection) | Classifies messages as spam or not | TF-IDF, Naive Bayes, Streamlit |
+| [Movie Recommendation System](https://github.com/SyrnaxX/movie-recommender-system) | Recommends similar movies, with posters and details from TMDB | TF-IDF, cosine similarity, FastAPI, Streamlit |
 | [Insurance Premium Prediction](https://github.com/SyrnaxX/insurance-premium-prediction-model) | Estimates insurance premiums, model served via API | scikit-learn, FastAPI |
 | [Car Price Prediction](https://github.com/SyrnaxX/car-price-prediction) | Predicts used-car prices with regression | Random Forest, XGBoost |
 
